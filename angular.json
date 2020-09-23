@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mapas"
+    }
+  },
+  "defaultProject": "mapas",
+  "cli": {
+    "analytics": false
+  }
 }
